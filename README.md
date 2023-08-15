@@ -1,0 +1,1 @@
+### A calculator for an NHL coach to determine with how much time remaining in a game to pull their goalie based on the current momentum in the game. See report: https://docs.google.com/document/d/1HBHvhf7MDogScCHr__PCGcHUEQObg6-CJsCh3ck-cn4/edit?usp=sharing
